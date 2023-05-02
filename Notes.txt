@@ -1,0 +1,9 @@
+three-js-spike - is the main spike, this is where I put a similar logic like Planned5D with walls and drag and drop functionality
+table-configurator-three-js-r3F-tutorial-final - this is a sample application that configures a table
+
+References: These two are the best examples I found to get started to 3D Furniture creator
+This is a sandbox for drag and drop three.js objects, it uses @use-gesture/react library
+https://codesandbox.io/s/busy-bird-2cm7kt?file=/src/index.css:0-344
+
+A really helpful tutorial named React Three Fiber tutorial - 3D Table Configurator
+https://www.youtube.com/watch?v=wW0XwNhrDFQ&ab_channel=WawaSensei
